@@ -1,3 +1,0 @@
-C:/Users/Nastia/uni/prog++/lab_3/build/CMakeFiles/prog.dir
-C:/Users/Nastia/uni/prog++/lab_3/build/CMakeFiles/edit_cache.dir
-C:/Users/Nastia/uni/prog++/lab_3/build/CMakeFiles/rebuild_cache.dir
